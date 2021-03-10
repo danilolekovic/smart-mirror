@@ -1,0 +1,30 @@
+.weather {
+    position: fixed;
+    right: 0;
+    top: 0;
+    padding-right: 3em;
+}
+
+.weatherImage {
+    filter: brightness(0) invert(1);
+}
+
+.weatherCondition {
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: right;
+    font-size: 40px;
+}
+
+.weatherTemperature {
+    display: inline-block;
+    font-size: 65px;
+    margin-bottom: 0;
+}
+
+.weatherName {
+    text-align: right;
+    margin-top: 0;
+    font-size: 30px;
+    opacity: 0.9;
+}

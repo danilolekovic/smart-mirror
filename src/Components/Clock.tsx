@@ -1,5 +1,5 @@
 import * as React from 'react';
-import "../Styles/clock.css";
+import "../Styles/Clock.css";
 
 export interface IClockProps {
 }
