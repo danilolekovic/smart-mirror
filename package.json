@@ -1,0 +1,24 @@
+{
+  "name": "smart-mirror",
+  "version": "1.0.0",
+  "description": "My smart mirror running on a Raspberry Pi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danilolekovic/smart-mirror.git"
+  },
+  "keywords": [
+    "smart",
+    "mirror",
+    "raspberry-pi"
+  ],
+  "author": "Danilo Lekovic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danilolekovic/smart-mirror/issues"
+  },
+  "homepage": "https://github.com/danilolekovic/smart-mirror#readme"
+}
